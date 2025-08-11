@@ -19,7 +19,7 @@
     "react-scripts": "5.0.1",
     "redux": "^5.0.1",
     "web-vitals": "^3.3.2",
-    "yup": "^1.2.0"
+    "yup": "^1.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
